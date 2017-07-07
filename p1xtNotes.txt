@@ -1,0 +1,101 @@
+
+My advice was, is, and will remain this:
+
+Stop defining success as "I can finish the bare minimum really quickly and get a job". You're setting yourself up to quit as soon as something gets difficult or takes longer than you want.
+
+Ok, you're in a minimum wage job right now and your goal is to get a developer position and break out of your current situation. That goal is attainable. You can do that. It's when you start tacking on "as soon as I finish the Frontend certificate" that you're tacking on unreasonable expectations that are going to further fuel that "I failed again" train you're on.
+
+Presumably, you have time to do your minimum wage job plus study programming. If it takes you a couple years of consistent studying and practice to break into the web development field instead of a couple months, is that really any less of a success? Stop putting "I failed" hurdles up for false metrics. You CAN get there but it's going to be exponentially harder if not impossible if you keep setting yourself up to fail along the way for not getting there "quick" or with a minimum amount of effort.
+
+You don't like where you are now. You want better. Am I right?
+
+If I am, stop looking for reassurance, stop looking for shortcuts, stop thinking in terms of "if I just finish X", in short - suck it up and WORK FOR IT!
+
+If it really matters to you, work for it. Not for a day, or a week, or a month. Work for it. Every day. If you have time to go see friends, play games, watch tv, that was time you could have spent changing your life.
+
+You want to set goals that matter? Goals that WILL push you towards attaining your main goal (getting a job in web development)? Here's a list:
+
+Daily goals:
+
+Study new concepts (books or videos) - minimum 1 hour
+Write code - minimum 1 hour
+Commit code to GitHub - minimum 1 commit
+Weekly goal:
+
+Finish (or make substantial progress on) one project, with a minimum of 3 commits to the GitHub repository for that project, and at least a working minimal demo of the project available on the web by the end of the week.
+Meet every daily goal PLUS increase study on one day of the week to 8+ hours
+Common Sense
+
+Never skip even one day. Allow yourself one cheat day a week where you toss the daily goals out the window and either continue coding something you were working on or just kick back and read or watch youtube tutorials. Just do something, no goal, just spend 30 minutes to two hours giving yourself the gift of not having skipped the day that started you down the path of 10 skipped days to quitting.
+If you're on a roll coding something, or on a roll learning a whole lot from a book or video, don't break your momentum by thinking "I need to switch now 'cause I need a minimum of 1 hour on the other", just stick with what you're doing. Learning, not rules, is what's important, it'll even out eventually.
+Whenever you get the chance, collaborate with others. Pair program, do a joint project, whatever. Working with even one other person every now and then will help you learn how to work with others which is a really important skill to have.
+Suggested progression
+
+First - setup a local development environment with the editor of your choice, Node.js, git, and surge installed. The first video I list is a tutorial on git, the first readings are on setting up Node.js and Surge. Make sure you can create a simple web page (doesn't need more than one line of text on it), save the page to github, and publish it to the web using surge. For bonus points, once you've got Node.js setup, Google lite-server and install that so you can test your web pages locally in a webserver on your own machine.
+
+Reading
+
+The Node.js download page10 and The Surge.sh Tour14 - ensure you have Node.js and surge installed and can upload a page to surge.sh before you proceed.
+Shay Howe's courses on Frontend Web Development16
+YDKJS4
+Up & Going
+Scope & Closures
+this & Object Prototypes
+Types & Grammar
+Async & Performance
+ES6 & Beyond
+JavaScript Allongé, the "Six" Edition5
+JavaScript Spessore5
+DOM Enlightenment6
+Learning JavaScript Design Patterns6
+Professor Frisby's Mostly Adequate Guide to Functional Programming5
+Videos and Tutorials
+
+Udacity - How to Use Git and GitHub8
+The Net Ninja's YouTube Playlists7
+HTML
+CSS
+Bootstrap
+JavaScript
+Responsive Web Design
+jQuery
+CSS Positioning
+JavaScript ES6
+CSS Flexbox
+Asynchronous JavaScript
+Sass
+Node.js
+Khan Academy's Computer Programming Courses3
+Intro to HTML/CSS: Making webpages
+Intro to JS: Drawing & Animation
+Advanced JS: Games & Visualizations
+HTML/JS: Making webpages interactive
+Advanced JS: Natural Simulations
+HTML/JS: Making webpages interactive with jQuery
+Intro to SQL: Querying and managing data
+Khan Academy's Computer Science Courses2
+Algorithms
+Udacity - Responsive Web Design Fundamentals2
+Udacity - JavaScript Testing3
+edX - Introduction to MongoDB using the MEAN Stack5
+FCC Goals
+
+Try to finish the FCC basic frontend projects by the time you finish Shay Howe's first course and the Net Ninja's Bootstrap Tutorial.
+Try to finish the FCC algorithmic challenges by the time you finish the Net Ninja's JavaScript Tutorial and the first two YDKJS Books.
+Try to finish the FCC intermediate frontend projects by the time you finish the Net Ninja's CSS Flexbox Tutorial and JavaScript Allongé, the "Six" Edition.
+Try to finish the FCC advanced frontend projects by the time you finish DOM Enlightenment and Khan Academy's HTML/JS Making Web Pages Interactive.
+Try to finish the FCC backend projects by the time you finish Learning JavaScript Design Patterns and edX - Introduction to MongoDB using the MEAN Stack.
+Once you've finished the frontend and backend certifications, pick a frontend framework or library (Angular, React, Vue), give yourself a week of tutorials and reading on it, then set yourself the goal of finishing one data visualization project a week.
+You can succeed. The only thing between you and success is you quitting or deciding you failed because you didn't succeed fast enough. Every resource I listed here is absolutely free. There's nothing stopping you from succeeding except you making the decision not to try.
+
+Stop worrying about "will this be worth it".
+
+Stop plotting your own failure.
+
+Stop deciding "this is a bust if it takes too long".
+
+Sit your butt in front of the computer and start thinking "I am going to do this, nothing will stop me". And do ... not ... stop 
+
+Udemy
+
+...Maximilian Schwarzmüller's Angular 2 or Vue.js course

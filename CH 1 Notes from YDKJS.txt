@@ -1,0 +1,203 @@
+CH 1 Notes from YDKJS:
+
+Shift + Enter allows on to write out multiple lines on browser console
+
+output
+
+creating output: alert() or console.log()
+
+input
+
+prompt()
+
+Variables:
+
+declaring variables, use keyword var
+
+	example, var a = 21;
+
+Here are some of the most common operators in JavaScript:
+
+Assignment: = as in a = 2.
+
+Math: + (addition), - (subtraction), * (multiplication), and / (division), as in a * 3.
+
+Compound Assignment: +=, -=, *=, and /= are compound operators that combine a math operation with assignment, as in a += 2 (same as a = a + 2).
+
+Increment/Decrement: ++ (increment), -- (decrement), as in a++ (similar to a = a + 1).
+
+Object Property Access: . as in console.log().
+
+Objects are values that hold other values at specific named locations called properties. obj.a means an object value called obj with a property of the name a. Properties can alternatively be accessed as obj["a"]. See Chapter 2.
+
+Equality: == (loose-equals), === (strict-equals), != (loose not-equals), !== (strict not-equals), as in a == b.
+
+See "Values & Types" and Chapter 2.
+
+Comparison: < (less than), > (greater than), <= (less than or loose-equals), >= (greater than or loose-equals), as in a <= b.
+
+See "Values & Types" and Chapter 2.
+
+Logical: && (and), || (or), as in a || b that selects either a or b.
+
+
+Values & Types
+
+Values that are included directly in the source code are called literals
+
+Converting between types
+
+explicit coercion
+
+implicit coercion - two values that are not already of same typ
+
+ex. "99.99" == 99.99 will coercion the left data type to make the above statement true
+
+Variables
+
+Static typing
+
+Dynamic typing
+
+declaring vvariable:
+
+var a 
+
+constants - variable values will not change thru out the script
+
+use _ 
+
+
+keyword for constant variable would be const
+
+
+
+Blocks
+
+a group of series of statements together
+
+for blocks, we use {...}
+
+
+Conditionals
+
+conditions - decisions
+
+if statement - if the condition is true do the following 
+
+if(true) {...}
+
+ex.
+
+var a = 3;
+var b = 2;
+
+if (a>2) {
+	
+	console.log("oh yeaaa!");
+}
+
+
+if a condition is false th alternate is else
+
+var  b = 45;
+var a = 2;
+
+if (a > b) {
+	
+	c = b + a;
+	console.log(c);
+}
+
+else {
+	
+	console.log("nice try");
+}
+
+
+Loops
+
+repeats untils condition fails
+
+one run = iteration
+
+while loops
+
+while ( a condition) {
+	
+	console.log("er");
+
+	numD = numD - 1 ;
+}
+
+do loops
+
+do {
+	
+	console.log("jjjjelly");
+
+	num = num - 1;
+} while (condition);
+
+ex.
+
+var i = 0;
+
+while (true) {
+	
+	if (i <= 9) {
+
+		break;
+	}
+
+	console.log(i);
+
+	i = i + 1;
+}
+
+for loop
+
+for (i = 0; i <= 9; i = i + 1;) {
+	
+	console.log(i);
+}
+
+Functions
+
+A function is generally a named section of code that can be "called" by name, and the code inside it will run each time
+
+ex.
+
+function printAmount () {
+	
+	console.log( amount.toFixed (2 ) );
+}
+
+var amount = 99.99;
+
+printAmount();
+
+parameters aka agruments can be pushed thru functions - values
+
+function printAmount(amt) {
+	console.log( amt.toFixed( 2 ) );
+}
+
+function formatAmount() {
+	return "$" + amount.toFixed( 2 );
+}
+
+var amount = 99.99;
+
+printAmount( amount * 2 );		// "199.98"
+
+amount = formatAmount();
+console.log( amount );			// "$99.99"
+
+
+Practice
+
+
+
+
+
